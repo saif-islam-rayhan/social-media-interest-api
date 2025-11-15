@@ -1,0 +1,9 @@
+numpy<2
+torch==2.1.2
+transformers==4.37.2
+fastapi
+uvicorn
+pymongo
+pandas
+sentencepiece
+accelerate
